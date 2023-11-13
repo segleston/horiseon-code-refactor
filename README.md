@@ -9,6 +9,8 @@ This project was to edit the Horiseon HTML and CSS to ensure the code was logica
 N/A
 
 ## Usage
+Live link: https://segleston.github.io/horiseon-code-refactor/
+
 Each section contains information with regards to Horiseons work and what services they offer. Please see screenshots of page:
 ![alt text](assets/images/Screenshot%202023-11-13%20at%2015.52.00.png)
 ![alt text](assets/images/Screenshot%202023-11-13%20at%2015.52.16.png)
